@@ -1,1 +1,1 @@
-# terraform-aws-spissys-demoapp
+# Terraform code for Spissys Project
